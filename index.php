@@ -5,6 +5,13 @@
   .b1{border-bottom: 1px solid #000000;}
   .l1{border-left: 1px solid #000000;}
   .r1{border-right: 1px solid #000000;}
+  body{
+    padding: 0;
+    margin: 0;
+    justify-content: center;
+    background-color: #269185;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
 </style>
 </head>
 <body>
@@ -14,7 +21,7 @@ echo "Hello world sample";
 <br>
 <h1>This is sample website</h1>
 <h1>This is sample website new</h1>
-<<<<<<< HEAD
+
 <table border='0' cellspadding='0' cellspacing='0'>
   <tr>
     <td class='t1 b1 l1'><div align='center' style='font-weight: bold;padding: 5px;'>#</div></td>
@@ -49,13 +56,9 @@ echo "The quick brown fox jumped over the lazy dog near the bank of the river.";
 <div style="padding-top: 20px; justify-content:center;">
 
   <img src="mashle-mss.gif" alt="logo">
-  <h1>bling blom</h1>
-
-  <h2> NAnsndnsdsdnsdsn</h2>
-
+  <h1>Bling Bam Bam Bem Bam Bong!</h1>
   <h1>Manol ka</h1>
 
-   
 </div>
 </body>
 </html>

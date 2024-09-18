@@ -41,19 +41,14 @@ echo "Hello world sample";
 =======
 <?php
 //Aboy Codes 09-18-2024
+?>
 
-<<<<<<< Updated upstream
 echo "The quick brown fox jumped over the lazy dog near the bank of the river.
 Sample sample sample 000000001111.";
 echo "The quick brown fox jumped over the lazy dog near the bank of the river.";
-?>
 
-=======
-The quick brown fox jumped over the lazy dog near the bank of the river.
-Sample sample sample 000000001111.
-?>
 
-<img src="mashle-mss.gif" alt="logo">
+?>
 
 </body>
 </html>

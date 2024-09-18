@@ -40,7 +40,6 @@ echo "Hello world sample";
 
 <?php
 //Aboy Codes 09-18-2024
-?>
 
 echo "The quick brown fox jumped over the lazy dog near the bank of the river.
 Sample sample sample 000000001111.";
@@ -51,6 +50,7 @@ echo "The quick brown fox jumped over the lazy dog near the bank of the river.";
 
   <img src="mashle-mss.gif" alt="logo">
   <h1>bling blom</h1>
+  <h2> NAnsndnsdsdnsdsn</h2>
    
 </div>
 </body>

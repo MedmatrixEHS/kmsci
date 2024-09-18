@@ -14,5 +14,28 @@ echo "Hello world sample";
 <br>
 <h1>This is sample website</h1>
 <h1>This is sample website new</h1>
+<table border='0' cellspadding='0' cellspacing='0'>
+  <tr>
+    <td class='t1 b1 l1'><div align='center' style='font-weight: bold;padding: 5px;'>#</div></td>
+    <td class='t1 b1 l1'><div align='center' style='font-weight: bold;padding: 5px;'>Name</div></td>
+    <td class='t1 b1 l1 r1'><div align='center' style='font-weight: bold;padding: 5px;'>Status</div></td>
+  </tr>
+  <tr>
+    <td class='b1 l1'><div align='center' style='font-weight: bold;padding: 5px;'>1</div></td>
+    <td class='b1 l1'><div align='center' style='font-weight: bold;padding: 5px;'>Name 1</div></td>
+    <td class='b1 l1 r1'><div align='center' style='font-weight: bold;padding: 5px;'>Status 1</div></td>
+  </tr>
+  <tr>
+    <td class='b1 l1'><div align='center' style='font-weight: bold;padding: 5px;'>2</div></td>
+    <td class='b1 l1'><div align='center' style='font-weight: bold;padding: 5px;'>Name 2</div></td>
+    <td class='b1 l1 r1'><div align='center' style='font-weight: bold;padding: 5px;'>Status 2</div></td>
+  </tr>
+  <tr>
+    <td class='b1 l1'><div align='center' style='font-weight: bold;padding: 5px;'>3</div></td>
+    <td class='b1 l1'><div align='center' style='font-weight: bold;padding: 5px;'>Name 3</div></td>
+    <td class='b1 l1 r1'><div align='center' style='font-weight: bold;padding: 5px;'>Status 3</div></td>
+  </tr>
+</table>
+
 </body>
 </html>

@@ -48,7 +48,7 @@ echo "The quick brown fox jumped over the lazy dog near the bank of the river.";
 
 ?>
 <div style="padding-top: 20px; justify-content:center;">
-  <img src="mashle-mss.gif" alt="logo">
+
 </div>
 </body>
 </html>

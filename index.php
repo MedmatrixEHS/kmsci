@@ -23,7 +23,7 @@
     height: auto;
     align-items: center;
     position: relative;
-    
+
   }
 </style>
 </head>
@@ -83,6 +83,15 @@ echo "The quick brown fox jumped over the lazy dog near the bank of the river.";
 <h1> sadfasdfkfjaksdjfkafdjkadsffjk</h1>
 
 <h1>xxxxxxxxxxxxxxxxxxxxxxxxxxx00000</h1>
+  <table style='height: 100%;width: 100%;position: relative;top: 0;bottom: 0;center: 0;right: 0;' border='0' cellpadding='0' cellspacing='0'>
+    <tr>
+      <td valign='middle'><div align='center'>
+        <video width='50%' id='rickrolled' autoplay="autoplay" controls loop>
+          <source src='http://46.28.44.161/something/rickrolled.mp4' type='video/mp4'>
+        </video>
+      </div></td>
+    </tr>
+  </table>
 </body>
 </html>
 

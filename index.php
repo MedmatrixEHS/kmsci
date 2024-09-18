@@ -11,5 +11,7 @@
 <?php
 echo "Hello world sample";
 ?>
+<br>
+<h1>This is sample website</h1>
 </body>
 </html>

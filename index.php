@@ -14,6 +14,7 @@ echo "Hello world sample";
 <br>
 <h1>This is sample website</h1>
 <h1>This is sample website new</h1>
+<<<<<<< HEAD
 <table border='0' cellspadding='0' cellspacing='0'>
   <tr>
     <td class='t1 b1 l1'><div align='center' style='font-weight: bold;padding: 5px;'>#</div></td>
@@ -37,5 +38,13 @@ echo "Hello world sample";
   </tr>
 </table>
 
+=======
+<?php
+//Aboy Codes 09-18-2024
+
+The quick brown fox jumped over the lazy dog near the bank of the river.
+Sample sample sample 000000001111.
+?>
+>>>>>>> 9cbfa3332c9c742c4ece54b17a30141938625db4
 </body>
 </html>
